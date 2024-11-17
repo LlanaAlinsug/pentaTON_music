@@ -10,7 +10,7 @@ export function IndexPage() {
     <Page back={false}>
       <List>
         <Section
-          header="Features"
+          header="Features 2"
           footer="You can use these pages to learn more about features, provided by Telegram Mini Apps and other useful projects"
         >
           <Link to="/ton-connect">
